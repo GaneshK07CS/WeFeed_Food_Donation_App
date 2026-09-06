@@ -21,8 +21,8 @@ Now open http://localhost:8085 in your browser.
 | Platform | Download / Access | Instructions |
 | :--- | :--- | :--- |
 | 📱 **Android App (APK)** | https://drive.google.com/file/d/13VW3yTlWMjGPQ2Yx5MGlxcqbVo3d8e7U/view?usp=sharing| Download & install `WeFeed_FoodDonation_v1.0.apk` on any Android device |
-| 🌐 **Live Web App** | Now open http://localhost:8080 in your browser. |
-| 💻 **Local Dev Server** | `http://localhost:8085` | Run locally using Flutter or Python static server (see below) |
+| 🌐 **Live Web App** | Now open http://localhost:8085 in your browser. |
+| 💻 **Local Dev Server** | http://localhost:8085 | Run locally using Flutter or Python static server (see below) |
 
 ---
 
@@ -94,10 +94,10 @@ flutter pub get
 # Build web release
 flutter build web --release
 
-# Serve on localhost:8080
-python -m http.server 8080 --directory build/web
+# Serve on localhost:8085
+python -m http.server 8085 --directory build/web
 ```
-Now open [http://localhost:8080](http://localhost:8080) in your browser.
+Now open [http://localhost:8085](http://localhost:8080) in your browser.
 
 ### 3. Run or Build Android APK
 ```bash
