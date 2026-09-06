@@ -20,8 +20,8 @@ Now open http://localhost:8080 in your browser.
 
 | Platform | Download / Access | Instructions |
 | :--- | :--- | :--- |
-| 📱 **Android App (APK)** | [⬇️ Download WeFeed APK](https://github.com/GaneshK07CS/WeFeed_Food_Donation_App/releases/latest) | Download & install `WeFeed_FoodDonation_v1.0.apk` on any Android device |
-| 🌐 **Live Web App** | [🚀 Open WeFeed Web Demo](https://GaneshK07CS.github.io/WeFeed_Food_Donation_App/) | Hosted on GitHub Pages |
+| 📱 **Android App (APK)** | https://drive.google.com/file/d/13VW3yTlWMjGPQ2Yx5MGlxcqbVo3d8e7U/view?usp=sharing| Download & install `WeFeed_FoodDonation_v1.0.apk` on any Android device |
+| 🌐 **Live Web App** | Now open http://localhost:8080 in your browser. |
 | 💻 **Local Dev Server** | `http://localhost:8085` | Run locally using Flutter or Python static server (see below) |
 
 ---
